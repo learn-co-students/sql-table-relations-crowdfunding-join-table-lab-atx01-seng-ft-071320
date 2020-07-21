@@ -88,7 +88,7 @@ Now we're going to create a schema based on the following information:
 * A user has a name and an age
 * A pledge has an amount. It belongs to a user, and it also belongs to a project.
 
-### Create the Tables
+### Create the Table
 
 In the `create.sql` file, model your tables. You should have a table for
 projects, users, and pledges.
